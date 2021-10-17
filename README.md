@@ -6,3 +6,5 @@ https://acadpubl.eu/hub/2018-119-15/4/766.pdf
 CNNs are generally used in computer vision, however they’ve recently been applied to various NLP tasks and the results were promising.
 Let’s briefly see what happens when we use CNN on text data through a diagram.The result of each convolution will fire when a special pattern is detected. By varying the size of the kernels and concatenating their outputs, you’re allowing yourself to detect patterns of multiples sizes (2, 3, or 5 adjacent words).Patterns could be expressions (word ngrams?) like “I hate”, “very good” and therefore CNNs can identify them in the sentence regardless of their position.
 ![](https://miro.medium.com/max/1838/0*0efgxnFIaLTZ2qkY)
+
+Link to data: https://www.kaggle.com/darshank2019/review
